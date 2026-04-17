@@ -1,0 +1,12 @@
+{
+  "name": "backendwithnirbhay",
+  "version": "1.0.0",
+  "description": "making backend for the project",
+  "license": "ISC",
+  "author": "Nirbhay kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
